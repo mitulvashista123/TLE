@@ -7,10 +7,10 @@ import html
 import cairo
 import os
 import time
-import gi
-gi.require_version('Pango', '1.0')
-gi.require_version('PangoCairo', '1.0')
-from gi.repository import Pango, PangoCairo
+# import gi
+# gi.require_version('Pango', '1.0')
+# gi.require_version('PangoCairo', '1.0')
+# from gi.repository import Pango, PangoCairo
 
 import discord
 import random
