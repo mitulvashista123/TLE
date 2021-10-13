@@ -1,1 +1,1 @@
-worker: FONTCONFIG_FILE=$PWD/extra/fonts.conf poetry run python -m tle
+worker: ./run.sh
